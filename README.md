@@ -1,11 +1,11 @@
-<h1>Microsoft 365 - SharePoint Admin Center – Create a SharePoint Site</h1>
+<h1>Microsoft 365 – Apps Tab – Download Microsoft 365 Apps (Microsoft Office), Microsoft 365 Copilot Mobile App (Mobile), And Get More Apps (Microsoft’s App Store)</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over how to create a SharePoint site using Microsoft 365’s SharePoint Admin Center. Creating a SharePoint site in the SharePoint Admin Center allows users to establish a web-based location for collaboration, content sharing, and knowledge management. It allows users to create a variety of different kinds of sites: Team Site, Communication Site, Document Center, Enterprise Wiki, Publishing Portal,  and Content Center.
+This project goes over how to how to download Microsoft 365 apps (Microsoft office), Microsoft 365 Copilot mobile app (mobile), and get more apps (Microsoft’s app store).
 </b>
 
 
@@ -15,7 +15,7 @@ This project goes over how to create a SharePoint site using Microsoft 365’s S
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Microsoft 365 SharePoint Admin Center</b>
+ - <b>Microsoft 365</b>
 
 
 
