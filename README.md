@@ -94,7 +94,7 @@ This project goes over how to how to download Microsoft 365 apps (Microsoft offi
 <table>
   <tr>
     <td><img src="https://imgur.com/o1hpxHg.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/o1hpxHg.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Maw7n9d.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
